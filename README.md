@@ -44,4 +44,5 @@ Project structure:
 - src/main/java/com/courtney/dietai/profile/Targets.java
 - src/main/java/com/courtney/dietai/profile/TargetCalculator.java
 - src/main/java/com/courtney/dietai/profile/ProfileStore.java
-
+  
+There is a sample CSV file in the resource folder, dummy.csv
