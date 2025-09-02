@@ -1,4 +1,4 @@
-# dietai
+# DietAI
 DietAI is a JavaFX diet analysis program that takes in a CSV file of data from the Perfect Diet Tracker (or other diet tracker with similiar CSV data file structure) and uses ai to provide an evaluation. 
 
 [![Click for larger image](https://github.com/dean-703/dietai/blob/main/DietGuru600.png?raw=true)](https://github.com/dean-703/dietai/blob/main/DietGuru.png?raw=true)
